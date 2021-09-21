@@ -1,2 +1,2 @@
-# IPTV-GSS
-IPTV-GSS
+#EXTM3U
+
